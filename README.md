@@ -103,14 +103,3 @@ npm run deploy
 * GitHub: [Your Github](https://github.com/Your-Profile)
 
 ---
-
-## 📄 License
-
-This project is **open source** under the [MIT License](LICENSE).
-
-```
-
----
-
-
-```
